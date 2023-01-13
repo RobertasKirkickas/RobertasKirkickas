@@ -4,7 +4,10 @@ Hi there! My name is [Robertas] and I'm a Full-Stack Web Developer with a passio
 
 ## Projects
 
-- [gamesBlog](https://github.com/RobertasKirkickas/finalCapstone/tree/master/gamesBlog) - A website for gamers to stay up to date on the latest games.
+- [Personal CV](https://github.com/RobertasKirkickas/CV) - Personal CV created using React, Bootstrap, CSS, JS
+- [kevinmarkkeen.com website clone](https://github.com/RobertasKirkickas/kevinmarkkeen-website-clone) - Clone website using React, Bootstrap, CSS, JS.
+- [Stylish ME](https://github.com/RobertasKirkickas/Stylish-me) - Clothing website template. React, Bootstrap, CSS, JS
+- [gamesBlog](https://github.com/RobertasKirkickas/Scripts/tree/master/gamesBlog) - A website for gamers to stay up to date on the latest games. HTML, CSS, JS
 
 
 <img src="https://github.com/RobertasKirkickas/RobertasKirkickas/blob/main/me.png" alt="Me">
