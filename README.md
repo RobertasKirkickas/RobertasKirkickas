@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, React**
 
-- 📫 How to reach me **robertas3000@hotmail.com**
+- 📫 How to reach me **RobertasKirkickas@gmail.com**
 
 - 📄 Know about my experiences [https://robertas-kirkickas-cv.netlify.app/](https://robertas-kirkickas-cv.netlify.app/)
 
