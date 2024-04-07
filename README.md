@@ -40,5 +40,5 @@ Projects
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robertaskirkickas&label=Profile%20views&color=0e75b6&style=flat" alt="robertaskirkickas" /> </p>
 <br />
 
-<img src="https://github.com/RobertasKirkickas/RobertasKirkickas/blob/main/me.png" alt="Me">
+
 
