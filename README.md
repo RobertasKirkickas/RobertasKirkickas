@@ -2,17 +2,15 @@
 <h3 align="center">A passionate frontend developer from United Kingdom</h3>
 <br />
 
-- 👨‍💻 All of my projects are available at [https://github.com/RobertasKirkickas](https://github.com/RobertasKirkickas)
+- 👨‍💻 All of my projects are available at [RobertasKirkickas.dev](https://robertaskirkickas.dev)
 
 - 📝 I regularly write articles on [soon](soon)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, React**
 
 - 📫 How to reach me **RobertasKirkickas@gmail.com**
-
-- 📄 Know about my experiences [https://robertas-kirkickas-cv.netlify.app/](https://robertas-kirkickas-cv.netlify.app/)
-
-- ⚡ Fun fact **I started to be interested in programming since I was 11-12 years old, writing down codes on paper and then re-writing them to my actual code online using my mobile phone which was with keypad. My first programming language was WML - for mobile websites only.**
+- 
+- ⚡ Fun fact **I started to be interested in programming when I was 11-12 years old, writing down codes on paper and then re-writing them to my actual code online using my mobile phone which was with keypad. My first programming language was WML - for mobile websites only.**
 
 <br />
 
