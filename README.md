@@ -15,6 +15,7 @@
 <br />
 
 Projects
+- [IMS](https://github.com/RobertasKirkickas/inventory-management-system-java) - Inventory Management System. Java, SQL.
 - [ShowHub](https://showhub.uosweb.co.uk) - TV Shows Search Website.
 - [Hangman Game](https://github.com/RobertasKirkickas/Hangman-game) - Oldschool Hangman game where you need to guess the word by pressing letters. 
   Build with React, Sass, Bootstrap.
