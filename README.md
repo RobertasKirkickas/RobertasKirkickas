@@ -4,10 +4,6 @@
 
 - 👨‍💻 All of my projects are available at [RobertasKirkickas.dev](https://robertaskirkickas.dev)
 
-- 📝 I regularly write articles on [soon](soon)
-
-- 💬 Ask me about **JavaScript, HTML, CSS, React**
-
 - 📫 How to reach me **RobertasKirkickas@gmail.com**
   
 - ⚡ Fun fact **I started to be interested in programming when I was 11-12 years old, writing down codes on paper and then re-writing them to my actual code online using my mobile phone which was with keypad. My first programming language was WML - for mobile websites only.**
