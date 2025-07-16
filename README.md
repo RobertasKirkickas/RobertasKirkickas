@@ -11,11 +11,12 @@
 <br />
 
 Projects
+- [eCommerce](https://github.com/RobertasKirkickas/Ecommerce-Website) - eCommerce Website. Django, Python, SQLite, JavaScript, SCSS, HTML, Django Template Language (DTL).
 - [IMS](https://github.com/RobertasKirkickas/inventory-management-system-java) - Inventory Management System. Java, SQL.
 - [SA](https://github.com/RobertasKirkickas/search-algorithms-python) - Search Algorithms. Python.
 - [ShowHub](https://github.com/RobertasKirkickas/shows-website) - TV Shows Search Website.
 - [Hangman Game](https://github.com/RobertasKirkickas/Hangman-game) - Oldschool Hangman game where you need to guess the word by pressing letters. 
-  Build with React, Sass, Bootstrap.
+  Build with React, SCSS, Bootstrap.
 - [Personal CV](https://github.com/RobertasKirkickas/CV) - Personal CV created using React, Bootstrap, CSS.
 - [kevinmarkkeen.com website clone](https://github.com/RobertasKirkickas/kevinmarkkeen-website-clone) - Clone website using React, Bootstrap, CSS.
 - [Stylish ME](https://github.com/RobertasKirkickas/Stylish-me) - Clothing website template. React, Bootstrap, CSS.
