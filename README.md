@@ -11,7 +11,8 @@
 <br />
 
 Projects
-- [eCommerce](https://github.com/RobertasKirkickas/Ecommerce-Website) - eCommerce Website. Django, Python, SQLite, JavaScript, SCSS, HTML, Django Template Language (DTL).
+- [Game Website](https://github.com/RobertasKirkickas/eCommerce-game-website) - Built with PHP, Smarty, MySQL, HTML, JavaScript, Scss (CSS).
+- [eCommerce](https://github.com/RobertasKirkickas/Ecommerce-Website) - Built with Django, Python, SQLite, JavaScript, SCSS, HTML, Django Template Language (DTL).
 - [IMS](https://github.com/RobertasKirkickas/inventory-management-system-java) - Inventory Management System. Java, SQL.
 - [SA](https://github.com/RobertasKirkickas/search-algorithms-python) - Search Algorithms. Python.
 - [ShowHub](https://github.com/RobertasKirkickas/shows-website) - TV Shows Search Website.
